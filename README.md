@@ -4,7 +4,7 @@
 
 **Fullstack Developer · AI Engineer · Freelancer**
 
-Turkey <img src="https://flagcdn.com/24x18/tr.png" width="20" height="15" alt="Turkey" />
+Turkey <img src="https://flagcdn.com/w40/tr.png" srcset="https://flagcdn.com/w80/tr.png 2x" width="22" alt="Turkey" />
 
 <br/>
 
