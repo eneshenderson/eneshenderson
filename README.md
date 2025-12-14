@@ -4,7 +4,7 @@
 
 **Fullstack Developer · AI Engineer · Freelancer**
 
-🇹🇷
+Turkey 🇹🇷
 
 <br/>
 
