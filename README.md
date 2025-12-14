@@ -1,10 +1,10 @@
 <div align="center">
 
-# Enes Henderson
+# Enes Hikmet Kayım
 
 **Fullstack Developer · AI Engineer · Freelancer**
 
-Turkey <img src="https://flagcdn.com/w40/tr.png" srcset="https://flagcdn.com/w80/tr.png 2x" width="22" alt="Turkey" />
+Turkey <img src="https://flagcdn.com/w40/tr.png" width="20" alt="Turkey" style="vertical-align: middle;" />
 
 <br/>
 
