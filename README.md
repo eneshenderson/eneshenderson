@@ -4,11 +4,13 @@
 
 **Fullstack Developer · AI Engineer · Freelancer**
 
-Turkey 🇹🇷
+🇹🇷
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/eneshenderson)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/eneshenderson)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/eneshikmetkayim)
 ![Status](https://img.shields.io/badge/-Available%20for%20hire-success?style=flat)
 
 </div>
